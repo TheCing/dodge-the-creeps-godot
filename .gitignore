@@ -1,0 +1,7 @@
+# Import cache
+src/.import/
+
+# Binaries
+src/bin/
+src/build/
+src/lib/
